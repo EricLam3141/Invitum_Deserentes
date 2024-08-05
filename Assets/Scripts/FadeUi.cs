@@ -23,6 +23,7 @@ public class FadeUi : MonoBehaviour
         }
     }
 
+
     public void FadeIn()
     {
         StartCoroutine(FadeCanvasGroup(canvasGroup, canvasGroup.alpha, 0, fadeDuration));

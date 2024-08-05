@@ -359,6 +359,8 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2022.3.36f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/GameEnd.cs"
+"Assets/Scenes/AudioManager.cs"
 "Assets/Scripts/FadeUi.cs"
 "Assets/Scripts/LevelLoader.cs"
 "Assets/Scripts/MoveCamera.cs"
